@@ -53,5 +53,5 @@ I'm particularly interested in:
 ### Connect With Me
 
 * Based in **Addis Ababa, Ethiopia**
-* 💼 LinkedIn: [Yishak Mekuannent](https://www.linkedin.com/)
+* LinkedIn: [Yishak Mekuannent](https://www.linkedin.com/)
 * 💻 GitHub: [@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb)
