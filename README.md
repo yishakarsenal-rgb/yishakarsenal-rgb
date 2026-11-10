@@ -2,7 +2,7 @@
 
 ### Software Developer | Next.js • React • C# (.NET) • Python • C++
 
-👨‍💻 I'm a full-stack web developer and software engineer passionate about **frontend UI/UX design**, **full-stack web architecture**, and building clean, reliable desktop and web applications.
+ I'm a full-stack web developer and software engineer passionate about **frontend UI/UX design**, **full-stack web architecture**, and building clean, reliable desktop and web applications.
 
 🎓 I'm a fourth-year **Computer Science student at Unity University** in Addis Ababa, Ethiopia, where I've built a strong foundation in object-oriented programming, Windows programming, computer graphics, network programming, and database systems.
 
