@@ -1,4 +1,4 @@
-# Hello 👋 I'm Yishak Mekuannent
+# Hello I'm Yishak Mekuannent
 
 ### Software Developer | Next.js • React • C# (.NET) • Python • C++
 
