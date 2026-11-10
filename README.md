@@ -54,4 +54,4 @@ I'm particularly interested in:
 
 * Based in **Addis Ababa, Ethiopia**
 * LinkedIn: [Yishak Mekuannent](https://www.linkedin.com/)
-* 💻 GitHub: [@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb)
+* GitHub: [@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb)
