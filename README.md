@@ -45,7 +45,7 @@ I'm particularly interested in:
 
 * **Ethio Laundry Management System** — Full-stack service order pipeline built with Next.js, React, Prisma, and PostgreSQL.
 * **Yishak Restaurant Website** — Modern restaurant web platform featuring a bento grid menu, cultural media gallery, and custom reservation system.
-* 💻 **[Windows Programming Course (C# & OOP)](https://github.com/yishakarsenal-rgb/window-programming-course)** — Complete C# fundamentals and Object-Oriented Programming implementations.
+* **[Windows Programming Course (C# & OOP)](https://github.com/yishakarsenal-rgb/window-programming-course)** — Complete C# fundamentals and Object-Oriented Programming implementations.
 * 🐍 **Python Programming Exercises** — Structured collection of core Python algorithms and problem-solving utilities.
 
 ---
