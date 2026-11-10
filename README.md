@@ -41,7 +41,7 @@ I'm particularly interested in:
 
 ---
 
-### 🚀 Featured Projects & Repositories
+### Featured Projects & Repositories
 
 * 🧺 **Ethio Laundry Management System** — Full-stack service order pipeline built with Next.js, React, Prisma, and PostgreSQL.
 * 🍽️ **Yishak Restaurant Website** — Modern restaurant web platform featuring a bento grid menu, cultural media gallery, and custom reservation system.
